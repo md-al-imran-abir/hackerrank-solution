@@ -1,6 +1,7 @@
 # Validating Postal Codes
 
 Problem url: https://www.hackerrank.com/challenges/validating-postalcode/problem
+
 Solution url: https://github.com/md-al-imran-abir/hackerrank-solution/blob/main/Python/ValidatingPostalCodes.py
 
 A valid postal code `P` have to fullfil both below requirements:
