@@ -1,6 +1,7 @@
 # Validating Postal Codes
 
 Problem url: https://www.hackerrank.com/challenges/validating-postalcode/problem
+Solution url: https://github.com/md-al-imran-abir/hackerrank-solution/blob/main/Python/ValidatingPostalCodes.py
 
 A valid postal code `P` have to fullfil both below requirements:
 
@@ -44,6 +45,7 @@ You are not responsible for printing anything to stdout. Locked stub code in the
 False
 ```
 **Explanation 0**
+
 1 1`0`0`0`0 : (`0`, `0`) and (0, 0) are two alternating digit pairs. Hence, it is an invalid postal code.
 
 **Note**:
